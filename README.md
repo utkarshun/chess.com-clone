@@ -10,22 +10,21 @@ This project is a real-time multiplayer Chess.com clone built with **Node.js**, 
 
 ---
 
-## 📁 Project Structure
-
 chess/
-├── app.js                      # Main backend server (Express + Socket.IO)
+├── app.js                           # Main backend server (Express + Socket.IO)
 ├── package.json
 ├── package-lock.json
-├── style.css                   # Global stylesheet (currently empty)
+├── style.css                        # Global stylesheet (currently empty)
 ├── views/
-│   └── index.ejs               # Main HTML template served by Express
-├── public/                     # Static files served to client
-│   ├── css/                    # (Add your custom stylesheets here if needed)
+│   └── index.ejs                    # Main HTML template served by Express
+├── public/                          # Static files served to client
+│   ├── css/                         # (Add custom stylesheets here if needed)
 │   └── js/
-│       └── chessgame.js        # Frontend logic (drag-and-drop, socket events)
-├── files/                      # Backup or zipped files (ignored in prod)
-├── backendSetup.yaml           # Optional: Backend deployment config
-└── frontendSetup.yaml          # Optional: Frontend deployment config
+│       └── chessgame.js             # Frontend logic (drag-and-drop, socket events)
+├── files/                           # Backup or zipped files (ignored in prod)
+├── screenshot/                      # Screenshots for README
+│   └── chess-game.png               # Example chessboard screenshot
+└── 10.04.2025_11.34.56_REC.mp4      # Demo video for showcasing the project
 
 
 ## 🚀 Features
