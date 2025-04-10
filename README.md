@@ -3,10 +3,13 @@
 This project is a real-time multiplayer Chess.com clone built with **Node.js**, **Express**, **Socket.IO**, and the **chess.js** library. It features drag-and-drop gameplay, real-time synchronization, player roles, and clean UI styling.
 
 ---
+## 🎥 Demo
 
-## 🌐 Live Demo (Optional)
+### 📸 Chess Board UI Preview  
+![Chess Game Preview](./screenshot/chess-game.png)
 
-> _Add your live link here if deployed (e.g., on Render, Vercel, etc.)_
+### ▶️ Watch Video Demo  
+[🎬 Click to view demo video](./10.04.2025_11.34.56_REC.mp4)
 
 ---
 
