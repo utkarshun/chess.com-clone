@@ -59,7 +59,7 @@ chess/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/chess-com-clone.git
+git clone https://github.com/utkarshun/chess.com-clone.git
 cd chess-com-clone
 npm install
 node app.js
